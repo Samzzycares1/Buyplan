@@ -1,0 +1,87 @@
+body{
+    background-color: white;
+}
+table{
+    border: 1px solid whitesmoke;
+    width: 1800px;
+    height: 1000px;
+    background-color: white;
+}
+
+table, tr,td, th{
+    border-bottom: 1px solid rgb(165, 163, 163);
+    border-collapse: collapse;
+    padding: 10px;
+}
+td{
+    padding-left: 170px;
+    
+
+}
+th{
+    padding-left: -50px;
+}   
+.head1{
+ height: 150px;   
+}
+.head2{
+    height: 100px;
+}
+.basic{
+    background-color: red;
+    font-size: larger;
+    color: white;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.medium{
+    background-color: blue;
+    font-size: larger;
+    color: white;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.advance{
+    background-color: rgb(4, 124, 120);
+    font-size: larger;
+    color: white;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button1{
+    background-color: red;
+    font-size: x-large;
+    width: 165px;
+    height: 70px;
+    color: white;
+    border-radius: 10px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+}
+.button2{
+    background-color: blue;
+    font-size: x-large;
+    width: 165px;
+    height: 70px;
+    color: white;
+    border-radius: 10px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+}
+.button3{
+    background-color: rgb(4, 124, 120);
+    font-size: x-large;
+    width: 165px;
+    height: 70px;
+    color: white;
+    border-radius: 10px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+}
